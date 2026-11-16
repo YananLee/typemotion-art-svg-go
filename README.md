@@ -4,8 +4,6 @@ A dependency-free Go library and CLI that makes a basic animated text SVG. The S
 
 ## Install
 
-After this repository is published and tagged:
-
 ```sh
 go get github.com/YananLee/typemotion-art-svg-go@v0.1.0
 ```
